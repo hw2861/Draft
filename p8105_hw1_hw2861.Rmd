@@ -1,0 +1,8 @@
+---
+title: "HW1"
+author: "Hongmiao Wang"
+date: 2022-09-17
+output: github_document
+---
+
+
